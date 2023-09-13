@@ -1,1 +1,1 @@
-# myscoop
+# myScoop
