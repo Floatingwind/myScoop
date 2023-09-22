@@ -9,12 +9,11 @@
     },
     "shortcuts": [
         [
-            "Setup.ForcedUninstall.exe",
-            "Setup.ForcedUninstall"
+            "TotalUninstaller/Setup.ForcedUninstall.exe",
+            "TotalUninstaller/Setup.ForcedUninstall"
         ]
     ],
-    "bin": "Setup.ForcedUninstall.exe",
-    "persist": "Config",
+    "bin": "TotalUninstaller/Setup.ForcedUninstall.exe",
     "checkver": {
         "github": "https://github.com/microsoft/VisualStudioUninstaller"
     },
