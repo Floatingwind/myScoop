@@ -9,8 +9,8 @@
     },
     "shortcuts": [
         [
-            "b0pass.exe",
-            "b0pass"
+            "b0pass-win/b0pass.exe",
+            "b0pass-win/b0pass"
         ]
     ],
     "bin": "b0pass-win/b0pass.exe",
