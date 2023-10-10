@@ -13,7 +13,7 @@
             "b0pass"
         ]
     ],
-    "bin": "b0pass.exe",
+    "bin": "b0pass-win/b0pass.exe",
     "checkver": {
         "github": "https://github.com/bitepeng/b0pass"
     },
