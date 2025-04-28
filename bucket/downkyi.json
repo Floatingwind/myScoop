@@ -1,12 +1,12 @@
 {
-    "version": "1.5.9",
+    "version": "1.0.18-1",
     "description": "DownKyi is a bilibili video download tool.",
-    "homepage": "https://github.com/leiurayer/downkyi/blob/main/README.md",
+    "homepage": "https://github.com/yaobiao131/downkyicore/blob/main/README.md",
     "license": "GPL",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/leiurayer/downkyi/releases/download/v1.6.1/DownKyi-1.6.1.zip",
-            "hash": "d809c230c9dd9ab18a7cbafc413db2d93eca25e45c4df5fa6aaad3f253015986"
+            "url": "https://github.com/yaobiao131/downkyicore/releases/download/v1.0.18/DownKyi-1.0.18-1.win-x64.zip",
+            "hash": "129099450a2f915aeec53ec624f7f454e2d03c2ea3bd276c67e5c316806a06d0"
         }
     },
     "shortcuts": [
@@ -18,12 +18,12 @@
     "bin": "DownKyi.exe",
     "persist": "Config",
     "checkver": {
-        "github": "https://github.com/leiurayer/downkyi"
+        "github": "https://github.com/yaobiao131/downkyicore"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/leiurayer/downkyi/releases/download/v$version/DownKyi-$version.zip"
+                "url": "https://github.com/leiurayer/downkyi/releases/download/v$version/DownKyi-$version.win-x64.zip"
             }
         }
     }
