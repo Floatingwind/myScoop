@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Molunerfinn/PicGo/releases/download/v2.4.0-beta.10/PicGo-Setup-2.4.0-beta.10-x64.exe#/dl.7z",
-            "hash": "sha512:625c5977ed020c3796408fb042f01092221ce8a4bbb7666e151ab13e12f37c5951f1025096692ea71ca2dd2a76a1702486de834cf22349dc42d917e3f973bbca",
+            "hash": "sha512:099f55bcb87cf0610f540cdd71bef450a19dea5d122ed09911d4388d2587ee9931f4c1fa7b09ba49063eb0fb92e18aeaeae822ef974",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         },
         "32bit": {
