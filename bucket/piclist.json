@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/Kuingsmile/PicList/releases/download/v2.9.9/PicList-Setup-2.9.9-x64.exe#/dl.7z",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
-            "hash": "sha512:af6e0e81f7b582fa06c8b424692bc29f69cd8ec1be77f02f5ce53e1fa590f1b65a3b70ad4f4bb3261f8c448397f5310be58f6208adce4523e75acc9eec8e6874"
+            "hash": "sha512:0b835eb7ee726190efe4870eddeef503b5b844976f63fcbd7614419ce9f71cf67aa22b773f5a753544a832d578eca9b58610b6757875ee6bc458bf3901737a03"
         },
         "32bit": {
             "url": "https://github.com/Kuingsmile/PicList/releases/download/v2.9.9/PicList-Setup-2.9.9-ia32.exe#/dl.7z",
